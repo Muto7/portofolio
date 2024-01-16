@@ -18,7 +18,7 @@ export const Footer = () => {
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-6 sm:gap-20 sm:px-28">
             <picture>
               <img
-                src="../../src/assets/footer/Vector.png"
+                src="../assets/footer/Vector.png"
                 className="h-10 w-10 sm:h-20 sm:w-20 transition duration-300 ease-in-out transform hover:scale-110 hover:brightness-125"
               />
             </picture>
