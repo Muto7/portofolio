@@ -42,7 +42,7 @@ export const Home = () => {
                     <a href="https://www.linkedin.com/in/mucamad-supriyanto-965946226/">
                       <div className="sm:flex flex-none">
                         <img
-                          src="/src/components/mail.svg"
+                          src="../assets/mail.svg"
                           alt="button"
                           className="mr-2"
                         />
