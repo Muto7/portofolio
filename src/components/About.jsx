@@ -2,7 +2,7 @@ export const About = () => {
   return (
     <section
       id="about"
-      className="bg-custom-secondary pt-auto sm:w-full md:max-w-full h-screen pt-28"
+      className="bg-custom-secondary pt-auto sm:w-full md:max-w-full h-screen pt-28 max-w-screen-sm mx-auto"
     >
       <div className="container mx-auto px-4 w-full">
         <div className="lg:text-4xl text-center underline underline-offset-8 decoration-custom-thrid">

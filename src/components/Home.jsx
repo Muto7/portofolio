@@ -1,7 +1,7 @@
 import "./animation.css";
 
 const PDF_FILE_URL =
-  "https://muto-portofolio.vercel.app/CV-Muchamad Supriyanto-3.pdf";
+  "https://muto-portofolio.vercel.app/CV-Muchamad Supriyanto.pdf";
 
 export const Home = () => {
   const downloadFileAtURL = (url) => {
@@ -16,7 +16,7 @@ export const Home = () => {
     <div>
       <section
         id="Home"
-        className="pt-20 w-full xl:h-screen md:h-screen sm:h-screen mx-auto items-center sticky bg-custom-primary"
+        className="pt-20 w-full xl:h-screen md:h-screen sm:h-screen mx-auto items-center sticky bg-custom-primary "
       >
         <div className="container mx-auto items-center justify-center font-poppins">
           <div className="grid xl:grid-cols-2 gap-3 sm:grid-cols-1 md:grid-cols-1 items-center  px-3">

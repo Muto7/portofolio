@@ -2,7 +2,7 @@ export const Proyek = () => {
   return (
     <section
       id="Proyek"
-      className="bg-custom-secondary pt-auto sm:w-full md:max-w-full max-h-full pt-28"
+      className="bg-custom-secondary pt-auto sm:w-full md:max-w-full max-h-full pt-28 "
     >
       <div className="container mx-auto px-4 w-full font-poppins">
         <div className="lg:text-4xl sm:font-semibold  font-semibold text-center underline underline-offset-8 decoration-custom-thrid">
