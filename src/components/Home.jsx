@@ -59,7 +59,7 @@ export const Home = () => {
                     }}
                   >
                     <img
-                      src="../../src/assets/download.svg"
+                      src="/src/assets/download.svg"
                       alt="button"
                       className="mr-6 animate-bounce "
                     />
@@ -70,15 +70,11 @@ export const Home = () => {
             </div>
             <div className="relative sm:place-content-center">
               <div className=" w-80 h-80 absolute -z-10 mx-auto inset-x-16 inset-y-2 md:inset-x-8 md:inset-y-1 sm:inset-x-4 sm:inset-y-1 animate-spin-slow sm:animate-spin-slow md:animate-spin-slow">
-                <img
-                  id="clock"
-                  src="../../src/assets/circle-notched.svg"
-                  alt="plane"
-                />
+                <img id="clock" src="/assets/circle-notched.svg" alt="plane" />
               </div>
               <div className="max-w-lg align-top">
                 <img
-                  src="../../src/assets/Profil.svg"
+                  src="/components/assets/Profil.svg"
                   alt="profile"
                   className="transform-gpu transition-transform duration-300 hover:scale-110 cursor-pointer"
                 />
