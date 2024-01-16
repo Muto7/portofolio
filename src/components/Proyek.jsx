@@ -11,7 +11,7 @@ export const Proyek = () => {
         <div className="grid sm:grid-cols-3 grid-cols-1">
           <div className="p-4 m-8 max-w-full bg-white shadow-md rounded-xl hover:scale-125 duration-300">
             <picture className="rounded-lg block">
-              <img src="../../src/assets/proyek/muto-koding.png" />
+              <img src="/assets/proyek/muto-koding.png" />
             </picture>
             <h1 className="mt-4 mb-2 text-xl font-bold">
               Website Pembelajaran
@@ -26,7 +26,7 @@ export const Proyek = () => {
           </div>
           <div className="p-4 m-8 max-w-full bg-white shadow-md rounded-xl hover:scale-125 duration-300">
             <picture className="rounded-lg block">
-              <img src="../../src/assets/proyek/dicoding-hapi.js.png" />
+              <img src="/assets/proyek/dicoding-hapi.js.png" />
             </picture>
             <h1 className="mt-4 mb-2 text-xl font-bold">Hapi.js Server-side</h1>
             <p className="text-sm text-gray-600">
@@ -39,7 +39,7 @@ export const Proyek = () => {
           </div>
           <div className="p-4 m-8 max-w-full bg-white shadow-md rounded-xl hover:scale-125 duration-300">
             <picture className="rounded-lg block">
-              <img src="../../src/assets/proyek/sigeotangan.png" />
+              <img src="/assets/proyek/sigeotangan.png" />
             </picture>
             <h1 className="mt-4 mb-2 text-xl font-bold">Project TEAM</h1>
             <p className="text-sm text-gray-600">
@@ -53,7 +53,7 @@ export const Proyek = () => {
           </div>
           <div className="p-4 m-8 max-w-full bg-white shadow-md rounded-xl hover:scale-125 duration-300">
             <picture className="rounded-lg block">
-              <img src="../../src/assets/proyek/moodle-chairos.png" />
+              <img src="/assets/proyek/moodle-chairos.png" />
             </picture>
             <h1 className="mt-4 mb-2 text-xl font-bold">Tugas Akhir</h1>
             <p className="text-sm text-gray-600">
@@ -67,7 +67,7 @@ export const Proyek = () => {
           </div>
           <div className="p-4 m-8 max-w-full bg-white shadow-md rounded-xl hover:scale-125 duration-300">
             <picture className="rounded-lg block">
-              <img src="../../src/assets/proyek/ec2-chairos.png" />
+              <img src="/assets/proyek/ec2-chairos.png" />
             </picture>
             <h1 className="mt-4 mb-2 text-xl font-bold">Cloud Computing</h1>
             <p className="text-sm text-gray-600">
@@ -79,7 +79,7 @@ export const Proyek = () => {
           </div>
           <div className="p-4 m-8 max-w-full bg-white shadow-md rounded-xl hover:scale-125 duration-300">
             <picture className="rounded-lg block">
-              <img src="../../src/assets/proyek/dinesti.png" />
+              <img src="/assets/proyek/dinesti.png" />
             </picture>
             <h1 className="mt-4 mb-2 text-xl font-bold">Membuat Akses</h1>
             <p className="text-sm text-gray-600">
