@@ -18,25 +18,25 @@ export const Footer = () => {
           <div className="grid grid-cols-1 sm:grid-cols-4 gap-6 sm:gap-20 sm:px-28">
             <picture>
               <img
-                src="../assets/footer/Vector.png"
+                src="/assets/footer/Vector.png"
                 className="h-10 w-10 sm:h-20 sm:w-20 transition duration-300 ease-in-out transform hover:scale-110 hover:brightness-125"
               />
             </picture>
             <picture>
               <img
-                src="../../src/assets/footer/Vector (1).png"
+                src="/assets/footer/Vector (1).png"
                 className="h-10 w-10 sm:h-20 sm:w-20 transition duration-300 ease-in-out transform hover:scale-110 hover:brightness-125 hover:bg-custom-primary"
               />
             </picture>
             <picture>
               <img
-                src="../../src/assets/footer/mingcute_linkedin-line.png"
+                src="/assets/footer/mingcute_linkedin-line.png"
                 className="h-10 w-10 sm:h-20 sm:w-20 transition duration-300 ease-in-out transform hover:scale-110 hover:brightness-125"
               />
             </picture>
             <picture>
               <img
-                src="../../src/assets/footer/1692007265x-twitter-logo-png.png"
+                src="/assets/footer/1692007265x-twitter-logo-png.png"
                 className="h-10 w-10 sm:h-20 sm:w-20 transition duration-300 ease-in-out transform hover:scale-110 hover:brightness-125"
               />
             </picture>
@@ -45,7 +45,7 @@ export const Footer = () => {
         <div className="grid sm:grid-cols-1 grid-cols-2 sm:mt-40">
           <picture className="relative ">
             <img
-              src="../../src/assets/footer/Rectangle 11.png"
+              src="/assets/footer/Rectangle 11.png"
               className=" absolute inset-y-0 right-0"
             />
           </picture>
