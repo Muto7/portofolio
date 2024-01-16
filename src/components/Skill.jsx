@@ -53,64 +53,52 @@ export const Skill = () => {
           <div className="grid grid-cols-1">
             {/* card */}
             <div className="max-w-md rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer">
-              <img src="../../src/assets/skill/html.svg" alt="skill 1" />
+              <img src="/assets/skill/html.svg" alt="skill 1" />
             </div>
           </div>
           <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
-            <img
-              src="../../src/assets/skill/file-type-css (1).svg"
-              alt="skill 1"
-            />
+            <img src="/assets/skill/file-type-css (1).svg" alt="skill 1" />
           </div>
           <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
-            <img
-              src="../../src/assets/skill/javascript-js (1).svg"
-              alt="skill 1"
-            />
+            <img src="/assets/skill/javascript-js (1).svg" alt="skill 1" />
           </div>
           <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
-            <img
-              src="../../src/assets/skill/nodejs-original 1.svg"
-              alt="skill 1"
-            />
+            <img src="/assets/skill/nodejs-original 1.svg" alt="skill 1" />
           </div>
           <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
-            <img
-              src="../../src/assets/skill/tailwind-css (1).svg"
-              alt="skill 1"
-            />
+            <img src="/assets/skill/tailwind-css (1).svg" alt="skill 1" />
           </div>
           <div>
             <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
-              <img src="../../src/assets/skill/Vector.svg" alt="skill 1" />
+              <img src="/assets/skill/Vector.svg" alt="skill 1" />
             </div>
           </div>
           <div>
             <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
-              <img src="../../src/assets/skill/Group.svg" alt="skill 1" />
+              <img src="/assets/skill/Group.svg" alt="skill 1" />
             </div>
           </div>
           <div>
             <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
-              <img src="../../src/assets/skill/Group (1).svg" alt="skill 1" />
+              <img src="/assets/skill/Group (1).svg" alt="skill 1" />
             </div>
           </div>
           <div>
             <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer ">
               <img
-                src="../../src/assets/skill/docker-original-wordmark (1).svg"
+                src="/assets/skill/docker-original-wordmark (1).svg"
                 alt="skill 1"
               />
             </div>
           </div>
           <div>
             <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer">
-              <img src="../../src/assets/skill/jenkins (1).svg" alt="skill 1" />
+              <img src="/assets/skill/jenkins (1).svg" alt="skill 1" />
             </div>
           </div>
           <div>
             <div className="rounded shadow-lg transition-transform duration-300 hover:scale-110 cursor-pointer">
-              <img src="../../src/assets/skill/linux (1).svg" alt="skill 1" />
+              <img src="/assets/skill/linux (1).svg" alt="skill 1" />
             </div>
           </div>
         </div>
