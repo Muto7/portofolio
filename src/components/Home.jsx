@@ -23,7 +23,7 @@ export const Home = () => {
             <div className="flex flex-col">
               <div className="w-full">
                 <h1 className="lg:text-4xl font-bold pt-24 md:text-2xl hover:text-custom-thrid transform-gpu transition-transform duration-300 hover:scale-110 cursor-pointer">
-                  HI, I’m Muchamad Supriyanto
+                  HI, I’m Muchamad Supriyanto muto
                 </h1>
               </div>
               <div className="lg:text-2xl font-semibold md:text-xl pt-4 hover:text-custom-thrid transform-gpu transition-transform duration-300 hover:scale-110 cursor-pointer ">
