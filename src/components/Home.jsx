@@ -42,7 +42,7 @@ export const Home = () => {
                     <a href="https://www.linkedin.com/in/mucamad-supriyanto-965946226/">
                       <div className="sm:flex flex-none">
                         <img
-                          src="../assets/mail.svg"
+                          src="/public/assets/mail.svg"
                           alt="button"
                           className="mr-2"
                         />
@@ -58,11 +58,7 @@ export const Home = () => {
                       downloadFileAtURL(PDF_FILE_URL);
                     }}
                   >
-                    <img
-                      src="/src/assets/download.svg"
-                      alt="button"
-                      className="mr-6 animate-bounce "
-                    />
+                    <img src="" alt="button" className="mr-6 animate-bounce " />
                     Download Resume
                   </button>
                 </div>
@@ -74,7 +70,7 @@ export const Home = () => {
               </div>
               <div className="max-w-lg align-top">
                 <img
-                  src="/components/assets/Profil.svg"
+                  src=""
                   alt="profile"
                   className="transform-gpu transition-transform duration-300 hover:scale-110 cursor-pointer"
                 />
