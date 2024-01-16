@@ -41,11 +41,7 @@ export const Home = () => {
                   <button className="bg-custom-thrid p-4 rounded-md transform-gpu transition-transform duration-300 hover:scale-110 cursor-pointer">
                     <a href="https://www.linkedin.com/in/mucamad-supriyanto-965946226/">
                       <div className="sm:flex flex-none">
-                        <img
-                          src="../components/assets/mail.svg"
-                          alt="button"
-                          className="mr-2"
-                        />
+                        <img src="/mail.svg" alt="button" className="mr-2" />
                         <p className="">Here me</p>
                       </div>
                     </a>
