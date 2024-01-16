@@ -58,7 +58,11 @@ export const Home = () => {
                       downloadFileAtURL(PDF_FILE_URL);
                     }}
                   >
-                    <img src="" alt="button" className="mr-6 animate-bounce " />
+                    <img
+                      src="/assets/download.svg"
+                      alt="button"
+                      className="mr-6 animate-bounce "
+                    />
                     Download Resume
                   </button>
                 </div>
@@ -70,7 +74,7 @@ export const Home = () => {
               </div>
               <div className="max-w-lg align-top">
                 <img
-                  src=""
+                  src="/assets/Profil.svg"
                   alt="profile"
                   className="transform-gpu transition-transform duration-300 hover:scale-110 cursor-pointer"
                 />
