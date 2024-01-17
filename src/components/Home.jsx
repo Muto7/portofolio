@@ -1,7 +1,7 @@
 import "./animation.css";
 
 const PDF_FILE_URL =
-  "https://muto-portofolio.vercel.app/CV-Muchamad Supriyanto-update.pdf";
+  "https://muto-portofolio.vercel.app/CV-Muchamad Supriyanto-V4.pdf";
 
 export const Home = () => {
   const downloadFileAtURL = (url) => {
