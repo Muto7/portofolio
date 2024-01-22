@@ -10,12 +10,10 @@ export const About = () => {
         </div>
         <div className="">
           <p className="sm:text-center text-center font-poppins sm:text-lg pt-20">
-            Saya sedang berkuliah di salah satu Universitas didaerah Pamulang
-            yang bisa dijumpai dengan nama Universitas Pamulang, semenjak kuliah
-            saya banyak sekali belajar terutama di bidang pemrograman beberapa
-            kali saya juga ikut projek teman untuk membangun aplikasi{" "}
-            <em>WEB</em>, disela saya belajar saya juga senang bermain alat
-            musik gitar dan bernyanyi.
+            Hi, My name is Muto(Muchamad Supriyanto). I am a DevOps Engineer. I
+            always enjoy challenges and learning new things, especially when it
+            comes to technology. I hope to gain more experience and use it to
+            benefit others.
           </p>
         </div>
       </div>
